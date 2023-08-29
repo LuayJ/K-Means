@@ -1,2 +1,2 @@
 # K-Means
-k-means clustering
+k-means clustering from scratch
